@@ -28,7 +28,7 @@ const phamDangKhoa = {
     company: "Vincode Company",
     website: "https://vincode.xyz",
     location: "Vietnam 🇻🇳",
-    education: "University of Finance - Marketing (UFM)",
+    education: "Ho Chi Minh City University of Technology and Education (HCMUTE)",
     
     currentFocus: [
         "🤖 Building AI-powered applications with LLMs (Qwen, Gemma)",
