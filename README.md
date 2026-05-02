@@ -92,7 +92,7 @@ const phamDangKhoa = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phamkhoa18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=phamkhoa18&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=phamkhoa18&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/>
 
@@ -160,8 +160,10 @@ const phamDangKhoa = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg'" />
 </picture>
+
+> ⚠️ *Nếu con rắn chưa hiện, hãy vào [Actions](https://github.com/phamkhoa18/phamkhoa18/actions) → "Generate Snake Animation" → "Run workflow" để kích hoạt lần đầu!*
 
 </div>
 
