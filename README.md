@@ -91,12 +91,12 @@ const phamDangKhoa = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phamkhoa18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamkhoa18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=phamkhoa18&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamkhoa18&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phamkhoa18&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -118,24 +118,16 @@ const phamDangKhoa = {
 
 <div align="center">
 
-<a href="https://github.com/phamkhoa18/solis_lawyer">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=solis_lawyer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/phamkhoa18/vks_app_api">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=vks_app_api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/phamkhoa18/App_VKS_React_Native">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=App_VKS_React_Native&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/phamkhoa18/efootcup">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=efootcup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/phamkhoa18/chatbot_ufm">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=chatbot_ufm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/phamkhoa18/Qwen-local">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkhoa18&repo=Qwen-local&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
+| 🚀 Project | 📋 Description | 🛠️ Tech |
+|:-----------|:---------------|:--------|
+| [**⚖️ Solis Lawyer**](https://github.com/phamkhoa18/solis_lawyer) | AI-powered Legal Assistant Platform for Vietnamese law professionals | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) |
+| [**🏛️ VKS App API**](https://github.com/phamkhoa18/vks_app_api) | Backend API for Vietnam Prosecution Office management system | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| [**📱 VKS React Native**](https://github.com/phamkhoa18/App_VKS_React_Native) | Cross-platform mobile app for legal case management | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**🖥️ VKS Desktop**](https://github.com/phamkhoa18/app-vks-desktop-project) | Desktop application for prosecution office workflows | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+| [**⚽ EFootCup**](https://github.com/phamkhoa18/efootcup) | E-Football Tournament Platform with rankings & matchmaking | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) |
+| [**🤖 Chatbot UFM**](https://github.com/phamkhoa18/chatbot_ufm) | AI University Admission Chatbot with NLP | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AI](https://img.shields.io/badge/-AI-6e40c9?style=flat-square) |
+| [**🧠 Qwen Local**](https://github.com/phamkhoa18/Qwen-local) | Local deployment of Qwen LLM for private AI inference | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-FF6F00?style=flat-square) |
+| [**🔮 Gemma4 Gateway**](https://github.com/phamkhoa18/gemma4-gateway) | API Gateway for Google Gemma 4 model serving | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -160,10 +152,8 @@ const phamDangKhoa = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg'" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phamkhoa18/phamkhoa18/output/github-snake-dark.svg" />
 </picture>
-
-> ⚠️ *Nếu con rắn chưa hiện, hãy vào [Actions](https://github.com/phamkhoa18/phamkhoa18/actions) → "Generate Snake Animation" → "Run workflow" để kích hoạt lần đầu!*
 
 </div>
 
@@ -191,13 +181,13 @@ const phamDangKhoa = {
 
 <br/>
 
-<!-- SPOTIFY / QUOTE -->
+<!-- QUOTE -->
 <div align="center">
 
 ### 💭 Dev Quote of the Day
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/phmkhoa18)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/phamkhoa18)
 
 </div>
 
